@@ -1,4 +1,4 @@
-# pastebin-greentext
+#Pastebin Greentext
 A userscript that adds greentext functionality to Pastebin
 
 *Note that this only applies to pastes marked as "text". It will not change pastes with an associated code style.*
