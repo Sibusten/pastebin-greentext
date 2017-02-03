@@ -4,7 +4,13 @@ A userscript that adds greentext functionality to Pastebin
 *Note that this only applies to pastes marked as "text". It will not change pastes with an associated code style.*
 
 ##Examples
-Pictures here
+This is how pastebin looks normally
+![Without pastebin-greentext](/Examples/ExampleNone.png?raw=true)
+
+Here is how the pastes look with the normal and dark versions, respectively
+![Normal Version](/Examples/ExampleNormal.png?raw=true)
+![Dark Version](/Examples/ExampleDark.png?raw=true)
+
 
 ##Installation
 You will need a browser extension for loading userscripts. The reccommended ones are [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox, and [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for Chrome.
