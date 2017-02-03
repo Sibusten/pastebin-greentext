@@ -4,10 +4,10 @@ A userscript that adds greentext functionality to Pastebin
 *Note that this only applies to pastes marked as "text". It will not change pastes with an associated code style.*
 
 ##Examples
-This is how pastebin looks normally
+This is how pastebin looks normally<br>
 ![Without pastebin-greentext](/Examples/ExampleNone.png?raw=true)
 
-Here is how the pastes look with the normal and dark versions, respectively
+Here is how the pastes look with the normal and dark versions, respectively<br>
 ![Normal Version](/Examples/ExampleNormal.png?raw=true)
 ![Dark Version](/Examples/ExampleDark.png?raw=true)
 
