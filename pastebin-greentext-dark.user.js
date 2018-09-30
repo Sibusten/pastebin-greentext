@@ -2,8 +2,9 @@
 // @name        Pastebin Greentext (Dark)
 // @namespace   https://github.com/Sibusten
 // @include     http://pastebin.com/*
+// @include     https://pastebin.com/*
 // @require     https://code.jquery.com/jquery-3.1.1.min.js
-// @version     1
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 
